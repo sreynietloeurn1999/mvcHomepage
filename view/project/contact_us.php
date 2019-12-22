@@ -32,10 +32,10 @@
       <li><a href="inc.">
           <h3>Clubs</h3>
         </a></li>
-      <li><a href="#!">
+      <li><a href="about_us.php">
           <h3>About Us</h3>
         </a></li>
-      <li><a href="contact_us.php">
+      <li><a href="">
           <h3>Contact Us</h3>
         </a></li>
 
@@ -43,27 +43,12 @@
   </div>
 </nav>
 
-
-<h2 class="text-center text-danger">About Us</h2><br>
-  <div class="container">
-  <div class="row">
-             <div class="col-2">
-                <img src="image/foot.jpg" class="img-fluid" width="50%">   
-             </div>
-             <div class="col-10">
-                <h2>Our mission</h2>
-                <p>Football club is the website that use for create club and register to be member 
-                    of club. we created this website to motivate  people in our country interested in 
-                    sport.</p>
-                    &nbsp;
-                    <h1>Our Vision</h1>
-                    <p>We want adult in our country to develop ability and talen to challenge with other
-                     counties in the world
-                 </p>
-
-             </div>
-
-         </div>
+<h3 class="text-center">Contact Us</h3>
+<div class="container mt-5">
+  <div class="col-12">
+        <div id="map-container-google-11" class="z-depth-1-half map-container-12" style="height: 400px">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3909.013834999067!2d104.8808949139576!3d11.550865047581471!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310951add5e2cd81%3A0x171e0b69c7c6f7ba!2sPasserelles%20Num%C3%A9riques%20Cambodia%20(PNC)!5e0!3m2!1sen!2skh!4v1576495489388!5m2!1sen!2skh" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="500px"></iframe>
+        </div>
      </div>
 
 
